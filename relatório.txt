@@ -1,0 +1,2 @@
+apos montar a infraestura solicitada e separando por meio das entradas no switch de 1 a 12 contendo somente 10 pcs  e uma impressora em uma lan 
+e o restante em outra lan, foi feito como solicitado 2 departamentos com IPS estaticos e passsando manualmente a referencia ao servidor e os outros dois utilizando DHCP
